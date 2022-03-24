@@ -99,7 +99,7 @@ class _HomeState extends State<Home> {
                     }
                       else
                         {
-                          type = "Undervægtig";
+                          type = "Normalvægtig";
                         }
 
                   Navigator.pushNamed(context, '/Result',
